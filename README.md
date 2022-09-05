@@ -12,8 +12,9 @@ A number of the summary dataframes generated were affected:
    ![With Thomas 9th Graders](/district_summary_with_thomas_9th_graders.png)
 #### _Without Thomas 9th Graders_
    ![Without Thomas 9th Graders](/district_summary_without_thomas_9th_graders.png)
- - **School**: Outside of Thomas High School, the school summary was unaffected. That said, Thomas High School's passing percentages went through the roof. By excluding the 9th graders, Thomas High School's math, reading, and overall passing percentages jumped from the 60s into the 90s and it went from a middle-of-the-road performer (relative to the other schools) to one of the best.
+ - **School**: Outside of Thomas High School, the school summary was unaffected. THS saw its scores and passing percentages in math and reading decrease; however, that drop was less than a single percentage point.
 #### _With Thomas 9th Graders_
-   
+   ![With Thomas 9th Graders](/school_summary_with_thomas_9th_graders_2.png)
 #### _Without Thomas 9th Graders_
    ![Without Thomas 9th Graders](/school_summary_without_thomas_9th_graders.png)
+ - **Relative Performance**: 
