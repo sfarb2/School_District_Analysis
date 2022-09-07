@@ -13,13 +13,13 @@ A number of the summary dataframes generated were affected:
 #### _Without Thomas 9th Graders_
    ![Without Thomas 9th Graders](/district_summary_without_thomas_9th_graders.png)
 
- - **School**: Outside of Thomas High School, the school summary was unaffected. THS saw its scores and passing percentages in math and reading decrease; however, that drop was less than a single percentage point.
+ - **School**: Outside of Thomas High School, the school summary was unaffected. THS saw its scores and passing percentages in math and reading plummet; however, that drop doesn't accurately represent the change in the school's performance because the 9th graders' scores have been omitted but the class remains included in the count of total students. As is evident in the second chart (_Without Thomas 9th Graders_), THS 10th-12th graders actually fared quite well.
 #### _With Thomas 9th Graders_
-   ![With Thomas 9th Graders](/school_summary_with_thomas_9th_graders_2.png)
+   ![With Thomas 9th Graders](/school_summary_with_thomas_9th_graders.png)
 #### _Without Thomas 9th Graders_
    ![Without Thomas 9th Graders](/school_summary_without_thomas_9th_graders.png)
 
- - **Relative Performance**: Before the scores were adjusted, THS' overall 90.9% passing rate was second among all schools (trailing only Cabrera High School). After removing Thomas High's 9th grade scores, the overall passing percentage dropped to 90.6% - still good for second overall but much closer to Griffin, Wilson, and Pena.
+ - **Relative Performance**: Before the passing rates were adjusted to account for the correct denominator, THS' overall passing rate was firmly in the bottom half of all schools. After removing Thomas High's 9th grade population from the divisor, the overall passing percentage leaped to 90.6% - second overall (trailing only Cabrera High School).
 
  - **Impact of 9th Grade Score Replacement on**: 
      * _Math and reading scores by grade_
